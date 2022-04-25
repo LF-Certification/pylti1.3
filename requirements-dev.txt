@@ -1,0 +1,3 @@
+fastapi
+mock
+requests_mock
